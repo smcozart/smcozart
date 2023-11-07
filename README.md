@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud & Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Virtual Machine Vulnerability Testing](https://github.com/smcozart/LABURL)
+  - [Virtual Machine Vulnerability Testing](https://github.com/smcozart/MicrosoftAzureLab)
 - <b>Active Directory</b>
   - [Active Dreictory Administration Home Lab](https://github.com/smcozart/LABURL)
   - [Active Directory Bulk User Creation](https://github.com/smcozart/LABURL)
