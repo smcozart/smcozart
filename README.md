@@ -5,8 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Virtual Machine Vulnerability Testing](https://github.com/smcozart/MicrosoftAzureLab)
 - <b>Active Directory</b>
-  - [Active Dreictory Administration Lab](https://github.com/smcozart/LABURL)
-  - [Active Directory Bulk User Creation](https://github.com/smcozart/LABURL)
+  - [Active Dreictory Administration Lab](https://github.com/smcozart/ActiveDirectoryLab/tree/main)
 - <b>Cisco Packet Tracer</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
