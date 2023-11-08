@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Virtual Machine Vulnerability Testing](https://github.com/smcozart/MicrosoftAzureLab)
+  - Microsoft Entra ID Administration (Azure Active Directory) (in-progress)
 - <b>Active Directory</b>
   - [Active Dreictory Administration Lab](https://github.com/smcozart/ActiveDirectoryLab/tree/main)
 
