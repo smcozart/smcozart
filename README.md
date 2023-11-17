@@ -7,6 +7,9 @@
   - Microsoft Entra ID Administration (Azure Active Directory) (in-progress)
 - <b>Active Directory</b>
   - [Active Dreictory Administration Lab](https://github.com/smcozart/ActiveDirectoryLab/tree/main)
+ 
+  <b>WireShark</b>
+  - Analyzing HTTP/S & RDP Network Traffic
 
 <h2> 📄 Certifications:</h2>
 
