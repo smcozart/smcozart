@@ -14,6 +14,6 @@
 <h2> 📄 Certifications:</h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/73182f69-9a17-40b2-b377-527f82401dce)
-- Comptia Security+ (Expected November 2023)
-- Comptia Network+ (Expected November 2023)
+- Comptia Security+
+- Comptia Network+ (Expected March 2024)
 - Microsoft Azure Security Engineer Associate (AZ-500) Professional Certificate (in-progress)
