@@ -2,7 +2,7 @@
 
 <h3>Cloud AI Engineer | Building Agentic AI for the Enterprise</h3>
 
-<p>I specialize in scalable, AI-driven enterprise solutions on Microsoft Azure — integrating agentic AI into real business workflows and building custom platforms that automate complex, multi-step processes.</p>
+<p>I specialize in scalable, AI-driven enterprise solutions in Microsoft Azure — integrating agentic AI into real business workflows and building custom platforms that automate complex, multi-step processes.</p>
 
 <h2>🤖 AI Agents & Memory Systems:</h2>
 
@@ -22,7 +22,7 @@
 <h2>🛠️ Developer Tools & Research:</h2>
 
 - [**autoresearch**](https://github.com/smcozart/autoresearch) — AI research automation on single-GPU systems
-- [**get-shit-done**](https://github.com/smcozart/get-shit-done) — Meta-prompting system for Claude Code development
+- [**gsd**](https://github.com/smcozart/get-shit-done) — Meta-prompting system for Claude Code development
 - [**context-engineering-intro**](https://github.com/smcozart/context-engineering-intro) — AI coding assistant techniques with Claude Code
 - [**openclaw**](https://github.com/smcozart/openclaw) — Personal AI assistant for any OS, any platform
 - [**zeroclaw**](https://github.com/smcozart/zeroclaw) — Fast autonomous AI assistant infrastructure (Rust)
